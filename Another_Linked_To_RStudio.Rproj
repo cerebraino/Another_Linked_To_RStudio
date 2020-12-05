@@ -11,8 +11,3 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
-
-VERSION FROM GITHUBLAND
-
-I am unsure how this works but slowly is getting clearer ....
-
